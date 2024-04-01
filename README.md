@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning | AI | Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on public project
-- 📫 How to reach me [a link](https://twitter.com/i/flow/login?redirect_after_login=%2FDevvMaurya) | devvmaurya@gmail.com
+- 📫 How to reach me [X](https://twitter.com/i/flow/login?redirect_after_login=%2FDevvMaurya) | devvmaurya@gmail.com
 - 😄 Pronouns: Dev Maurya
 
 <!---
